@@ -1,4 +1,4 @@
-# demo-ocp-ack
+# Demo AWS Controllers for Kubernetes (ACK) on OpenShift
 
 AWS Controllers for Kubernetes (ACK) on OpenShift
 
